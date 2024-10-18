@@ -1,3 +1,4 @@
-Getting started:
-npm install
-npm run dev
+## Getting started:
+
+- `npm install`
+- `npm run dev`
