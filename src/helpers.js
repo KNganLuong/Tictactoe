@@ -17,5 +17,3 @@ export function calculateWinner(cells) {
   }
   return null
 }
-
-const cells = []
